@@ -6,6 +6,7 @@
    <img src="https://img.shields.io/badge/includes-html-critical" alt="in this projext">
    <img src="https://img.shields.io/badge/includes-css-success">
    <img src="https://img.shields.io/badge/includes-js-orange" alt="in this projext">
+   <img src="https://img.shields.io/badge/includes-ReactJS-blueviolet" alt="in this projext">
 </p>
 
 ## About
